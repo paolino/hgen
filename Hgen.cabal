@@ -1,0 +1,20 @@
+Name:                    Hgen
+Version:                 0.0.1
+Cabal-Version:           >= 1.2
+Description:             -----
+Category:                AI
+Synopsis:                ----
+License:                 BSD3
+License-file:            LICENSE
+Author:                  Roberto Tazzoli, Paolo Veronelli
+Maintainer:              roberto.tazzoli@gmail.com, paolo.veronelli@gmail.com
+Build-type:              Simple
+
+Library
+    Exposed-Modules:     Evolution,Simple,Core,Common
+                         
+    Build-Depends:       base,mtl,random
+        
+    extensions:          MultiParamTypeClasses,UndecidableInstances,
+                         TypeSynonymInstances,FlexibleContexts,FlexibleInstances
+

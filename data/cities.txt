@@ -1,0 +1,25 @@
+10
+1 
+2
+3
+4
+5
+6
+7
+8
+9
+10
+94 	 	
+89 	33 	 	
+98 	68 	44 	 	
+207 	244 	240 	284 	 	
+125 	31 	49 	65 	264 	 	
+255 	61 	57 	150 	390 	128 	 	
+188 	94 	97 	90 	323 	61 	67 	 	
+98 	90 	108 	158 	142 	121 	251 	184 	 	
+306 	262 	295 	330 	154 	282 	371 	304 	208 	 	
+189 	95 	113 	113 	300 	64 	80 	23 	185 	281 	 	
+(LogRate,1) .< (Parentado,3) .< (CullChildren,200) .< (Memory,3) .< (CullPoint,100) .< (Age,5) .< ()
+
+lo schema é una riga per cittá nell'ordine presentato, le colonne rappresentano
+le cittá nello stesso ordine
